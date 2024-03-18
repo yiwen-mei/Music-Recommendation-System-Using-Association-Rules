@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project focuses on developing a recommendation system for a popular music website, utilizing association rule learning to suggest songs to customers based on their previous purchases and the preferences of other users with similar tastes. The dataset, music.csv, includes information about the songs downloaded by customers, along with the artists' names, and demographic details of the users such as gender and country, although the latter two will not be utilized in this analysis.
+This project focuses on developing a recommendation system for a popular music website, utilizing association rule learning to suggest songs to customers based on their previous purchases and the preferences of other users with similar tastes. The dataset includes information about the songs downloaded by customers, along with the artists' names, and demographic details of the users such as gender and country, although the latter two will not be utilized in this analysis.
 
 ## Objectives
 
