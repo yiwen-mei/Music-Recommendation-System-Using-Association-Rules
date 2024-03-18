@@ -28,7 +28,7 @@ The dataset is sourced from `music.csv`, containing records of songs downloaded 
 - Libraries and packages such as `arules` in R or `mlxtend` / `apyori`in Python for association rules
 - Data manipulation tools like `dplyr` in R or `pandas` in Python
 
-Expected Outcomes
+## Expected Outcomes
 
 - Identify popular artists and songs that are frequently downloaded together by a significant portion of users.
 - Generate a list of association rules indicating which songs or artists are likely to be downloaded together, with metrics like support, confidence, and lift guiding the recommendation logic.
